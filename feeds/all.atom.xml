@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Damien's site</title><link href="https://Dalejosne.github.io/" rel="alternate"></link><link href="https://Dalejosne.github.io/feeds/all.atom.xml" rel="self"></link><id>https://Dalejosne.github.io/</id><updated>2022-04-01T00:00:00+02:00</updated><entry><title>À propos de moi</title><link href="https://Dalejosne.github.io/a-propos-de-moi.html" rel="alternate"></link><published>2022-04-01T00:00:00+02:00</published><updated>2022-04-01T00:00:00+02:00</updated><author><name>Damien Lejosne</name></author><id>tag:dalejosne.github.io,2022-04-01:/a-propos-de-moi.html</id><content type="html">&lt;h2&gt;À propos de moi&lt;/h2&gt;
-&lt;p&gt;Bienvenu sur mon site !&lt;/p&gt;
-&lt;p&gt;Je suis Damien Lejosne, j'ai 17 ans et je suis en terminale.&lt;br&gt;
-J'aime particulièrement les maths, la physique, la chimie, l'électronique et l'informatique.&lt;br&gt;
-Sinon, je trouve le ski, la randonnée, le badminton, la trompette et la lecture sympa.&lt;/p&gt;</content><category term="aubout"></category><category term="author"></category></entry><entry><title>CV</title><link href="https://Dalejosne.github.io/cv.html" rel="alternate"></link><published>2022-04-01T00:00:00+02:00</published><updated>2022-04-01T00:00:00+02:00</updated><author><name>Damien Lejosne</name></author><id>tag:dalejosne.github.io,2022-04-01:/cv.html</id><summary type="html">&lt;h1&gt;Mon CV&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Damien's site</title><link href="https://Dalejosne.github.io/" rel="alternate"></link><link href="https://Dalejosne.github.io/feeds/all.atom.xml" rel="self"></link><id>https://Dalejosne.github.io/</id><updated>2022-04-01T00:00:00+02:00</updated><entry><title>CV</title><link href="https://Dalejosne.github.io/cv.html" rel="alternate"></link><published>2022-04-01T00:00:00+02:00</published><updated>2022-04-01T00:00:00+02:00</updated><author><name>Damien Lejosne</name></author><id>tag:dalejosne.github.io,2022-04-01:/cv.html</id><summary type="html">&lt;h1&gt;Mon CV&lt;/h1&gt;
 &lt;h2&gt;Ma formation&lt;/h2&gt;
 &lt;h3&gt;Études&lt;/h3&gt;
 &lt;ul&gt;
